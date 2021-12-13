@@ -1,9 +1,9 @@
 // import React from 'react';
 // import ReactDom from 'react-dom';
-import { a } from './app.js';
+// import { a } from './app.js';
 import './index.css'
 
-import './customComp';
+// import './customComp';
 
 const root = document.getElementById('root');
 const shadow = root.attachShadow({mode: 'open'})
